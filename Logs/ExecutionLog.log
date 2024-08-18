@@ -1,0 +1,38 @@
+2024-08-12 14:01:04,426 - Coverfoxdata -INFO - openning browser
+2024-08-12 14:01:16,926 - Coverfoxdata -INFO - Clicking on Gender button
+2024-08-12 14:01:19,067 - Coverfoxdata -INFO - Clicking on Next button
+2024-08-12 14:01:21,342 - Coverfoxdata -WARN - enter age between 18-90 years
+2024-08-12 14:01:21,344 - Coverfoxdata -INFO - Handling age drop down
+2024-08-12 14:01:21,429 - Coverfoxdata -INFO - Clicking on Next button
+2024-08-12 14:01:23,547 - Coverfoxdata -WARN - Please enter valide pin code
+2024-08-12 14:01:23,547 - Coverfoxdata -INFO - entering pin code
+2024-08-12 14:01:23,637 - Coverfoxdata -WARN - Please enter valide mobile number
+2024-08-12 14:01:23,637 - Coverfoxdata -INFO - entering mobile number
+2024-08-12 14:01:23,743 - Coverfoxdata -INFO - Clicking on continue button
+2024-08-12 14:01:29,786 - Coverfoxdata -INFO - validating presence of sort button
+2024-08-12 14:01:33,974 - Coverfoxdata -INFO - validating banners
+2024-08-12 14:14:20,384 - Coverfoxdata -INFO - openning browser
+2024-08-12 14:14:32,922 - Coverfoxdata -INFO - Clicking on Gender button
+2024-08-12 14:14:35,063 - Coverfoxdata -INFO - Clicking on Next button
+2024-08-12 14:14:37,466 - Coverfoxdata -WARN - enter age between 18-90 years
+2024-08-12 14:14:37,468 - Coverfoxdata -INFO - Handling age drop down
+2024-08-12 14:14:37,527 - Coverfoxdata -INFO - Clicking on Next button
+2024-08-12 14:14:39,632 - Coverfoxdata -WARN - Please enter valide pin code
+2024-08-12 14:14:39,632 - Coverfoxdata -INFO - entering pin code
+2024-08-12 14:14:39,721 - Coverfoxdata -WARN - Please enter valide mobile number
+2024-08-12 14:14:39,721 - Coverfoxdata -INFO - entering mobile number
+2024-08-12 14:14:39,776 - Coverfoxdata -INFO - Clicking on continue button
+2024-08-12 14:14:45,821 - Coverfoxdata -INFO - validating presence of sort button
+2024-08-12 14:14:50,036 - Coverfoxdata -INFO - validating banners
+2024-08-12 14:18:57,798 - Coverfoxdata -INFO - openning browser
+2024-08-12 14:19:10,077 - Coverfoxdata -INFO - Clicking on Gender button
+2024-08-12 14:19:12,166 - Coverfoxdata -INFO - Clicking on Next button
+2024-08-12 14:19:14,435 - Coverfoxdata -WARN - enter age between 18-90 years
+2024-08-12 14:19:14,436 - Coverfoxdata -INFO - Handling age drop down
+2024-08-12 14:19:14,493 - Coverfoxdata -INFO - Clicking on Next button
+2024-08-12 14:19:16,664 - Coverfoxdata -WARN - Please enter valide pin code
+2024-08-12 14:19:16,664 - Coverfoxdata -INFO - entering pin code
+2024-08-12 14:19:16,752 - Coverfoxdata -WARN - Please enter valide mobile number
+2024-08-12 14:19:16,752 - Coverfoxdata -INFO - entering mobile number
+2024-08-12 14:19:16,818 - Coverfoxdata -INFO - Clicking on continue button
+2024-08-12 14:19:27,176 - Coverfoxdata -INFO - validating banners

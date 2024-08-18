@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[lauching browser]]>
+    </line>
+    <line>
+      <![CDATA[waiting...]]>
+    </line>
+    <line>
+      <![CDATA[click on male button]]>
+    </line>
+    <line>
+      <![CDATA[clickOnnextButton]]>
+    </line>
+    <line>
+      <![CDATA[age is selected]]>
+    </line>
+    <line>
+      <![CDATA[click on next button]]>
+    </line>
+    <line>
+      <![CDATA[reading pincode]]>
+    </line>
+    <line>
+      <![CDATA[reading mobile number]]>
+    </line>
+    <line>
+      <![CDATA[clickOnContinueButton]]>
+    </line>
+    <line>
+      <![CDATA[nullTC execution started]]>
+    </line>
+    <line>
+      <![CDATA[nullTC execution started]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-08-12T07:06:37 IST" name="Default suite" finished-at="2024-08-12T07:07:10 IST" duration-ms="33138">
+    <groups>
+    </groups>
+    <test started-at="2024-08-12T07:06:37 IST" name="Default test" finished-at="2024-08-12T07:07:10 IST" duration-ms="33138">
+      <class name="coverFoxTest.CoverFoxListener">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:coverFoxTest.CoverFoxListener@5bda8e08]" started-at="2024-08-12T07:06:37 IST" name="launchBrowser" finished-at="2024-08-12T07:06:47 IST" duration-ms="9993" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[lauching browser]]>
+            </line>
+            <line>
+              <![CDATA[waiting...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="preconditions()[pri:0, instance:coverFoxTest.CoverFoxListener@5bda8e08]" started-at="2024-08-12T07:06:47 IST" name="preconditions" finished-at="2024-08-12T07:07:02 IST" duration-ms="14905" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[click on male button]]>
+            </line>
+            <line>
+              <![CDATA[clickOnnextButton]]>
+            </line>
+            <line>
+              <![CDATA[age is selected]]>
+            </line>
+            <line>
+              <![CDATA[click on next button]]>
+            </line>
+            <line>
+              <![CDATA[reading pincode]]>
+            </line>
+            <line>
+              <![CDATA[reading mobile number]]>
+            </line>
+            <line>
+              <![CDATA[clickOnContinueButton]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- preconditions -->
+        <test-method signature="ChecksortPlan()[pri:0, instance:coverFoxTest.CoverFoxListener@5bda8e08]" started-at="2024-08-12T07:07:02 IST" name="ChecksortPlan" finished-at="2024-08-12T07:07:06 IST" duration-ms="4066" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[nullTC execution started]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ChecksortPlan -->
+        <test-method signature="validationBanners()[pri:0, instance:coverFoxTest.CoverFoxListener@5bda8e08]" started-at="2024-08-12T07:07:06 IST" name="validationBanners" finished-at="2024-08-12T07:07:10 IST" duration-ms="4068" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[nullTC execution started]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validationBanners -->
+      </class> <!-- coverFoxTest.CoverFoxListener -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
